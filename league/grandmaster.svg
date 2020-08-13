@@ -8,7 +8,7 @@
     width="64px" height="63px"
     viewBox="0 0 64 63"
 >
-    <desc>Starcraft2 GrandMaster League</desc>
+    <title>Starcraft2 GrandMaster League</title>
     <defs>
         <polygon id="star" points="0,24 25,24 32,0 39,24 64,24 44,39 52,63 32,48 12,63 20,39" fill="#ef3e00"/>
     </defs>

@@ -8,7 +8,7 @@
     width="56px" height="56px"
     viewBox="0 0 56 56"
 >
-    <desc>Starcraft2 Gold League</desc>
+    <title>Starcraft2 Gold League</title>
     <defs>
         <polygon id="chevron" points="0,0 28,16 56,0 56,12 28,28 0,12" fill="#ffd700"/>
     </defs>
