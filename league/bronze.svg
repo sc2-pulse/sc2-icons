@@ -8,7 +8,7 @@
     width="56px" height="28px"
     viewBox="0 0 56 28"
 >
-    <title>Starcraft2 Bronze League</title>
+    <title>StarCraft2 Bronze League</title>
     <defs>
         <polygon id="chevron" points="0,0 28,16 56,0 56,12 28,28 0,12 0,0" fill="#b9712d"/>
     </defs>
