@@ -1,5 +1,9 @@
 # About
 Vector variants of StarCraft2 images. All images are lightweight SVG files.
+## Logos
+<img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo.svg" width="48px" height="48px" alt="SarCraft2 logo"/>&#160;
+<img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft2 logo(text)"/>&#160;
+<img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-number.svg" width="48px" height="48px" alt="StarCraft2 logo(number)"/>
 ## Races
 <img src="https://github.com/nephest/sc2-icons/blob/master/race/terran.svg" width="48px" height="48px" alt="Terran"/>&#160;
 <img src="https://github.com/nephest/sc2-icons/blob/master/race/protoss.svg" width="48px" height="48px" alt="Protoss"/>&#160;
