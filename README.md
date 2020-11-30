@@ -1,5 +1,8 @@
 # About
 Vector variants of StarCraft2 images. All images are lightweight SVG files.
+# License
+Even though I'm using the permissive MIT license for vectorization part, you
+still need to follow [Blizzard Entertainment Logo and Trademark Guidelines](https://www.blizzard.com/en-us/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines) when using these images.
 ## Logos
 <img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo.svg" width="48px" height="48px" alt="SarCraft2 logo"/>&#160;
 <img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft2 logo(text)"/>&#160;
