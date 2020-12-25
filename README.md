@@ -28,3 +28,6 @@ still need to follow the guidelines of the original owners when using these imag
 <img src="https://github.com/nephest/sc2-icons/blob/master/league/tier-1.svg" width="48px" height="48px" alt="Tier1"/>&#160;
 <img src="https://github.com/nephest/sc2-icons/blob/master/league/tier-2.svg" width="48px" height="48px" alt="Tier2"/>&#160;
 <img src="https://github.com/nephest/sc2-icons/blob/master/league/tier-3.svg" width="48px" height="48px" alt="Tier3"/>
+## Trademarks
+Battle.net, Blizzard Entertainment and StarCraft are trademarks or registered trademarks of Blizzard Entertainment,
+ Inc. in the U.S. and/or other countries.
