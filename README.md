@@ -6,6 +6,7 @@ still need to follow the guidelines of the original owners when using these imag
 See file headers for more info.
 * [Blizzard Entertainment Logo and Trademark Guidelines](https://www.blizzard.com/en-us/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines)
 * [Liquipedia Copyrights](https://liquipedia.net/starcraft2/Liquipedia:Copyrights#)
+* [StarCraft-II-Ladder-badges License](https://github.com/Leisvan/StarCraft-II-Ladder-badges/blob/master/LICENSE)
 ## Logos
 <img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo.svg" width="48px" height="48px" alt="SarCraft2 logo"/>&#160;
 <img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft2 logo(text)"/>&#160;
