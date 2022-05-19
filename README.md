@@ -33,3 +33,6 @@ See file headers for more info.
 ## Trademarks
 Battle.net, Blizzard Entertainment and StarCraft are trademarks or registered trademarks of Blizzard Entertainment,
  Inc. in the U.S. and/or other countries.
+## Other icons
+* [StarCraft-II-Ladder-badges](https://github.com/Leisvan/StarCraft-II-Ladder-badges) a great set of vector league badges. 
+MIT.
